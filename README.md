@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a Software Engineering project for my CS330 class at West Virginia University 
+- 🔭 I’m currently working on nothing at the moment! 
 - 🌱 I’m currently learning programming languages such as Java, HTML, CSS, JavaScript
 - 🤔 I’m looking for help with improving my coding skills and communication with others 
 - 💬 Ask me about my hobbies (hint, I like the outdoors!)
