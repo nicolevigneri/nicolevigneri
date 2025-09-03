@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on nothing at the moment! 
+- 🔭 I’m currently working on a MPX project for CS 450 at the moment! 
 - 🌱 I’m currently learning programming languages such as C, Java, HTML, CSS, JavaScript
-- 🤔 I’m looking for help with improving my coding skills and communication with others 
+- 🤔 I’m looking for help with improving my coding skills, networking, and communication with others 
 - 💬 Ask me about my hobbies (hint, I like the outdoors!)
 - 📫 How to reach me: nmv00003@mix.wvu.edu ; nicolemvigneri@gmail.com  ; (443) 356-1868
 - 😄 Pronouns: she/her/hers
