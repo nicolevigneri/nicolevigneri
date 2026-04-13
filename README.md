@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a MPX project for CS 450 at the moment! 
+- 🔭 I’m currently working on an SQL database! 
 - 🌱 I’m currently learning programming languages such as C, Java, HTML, CSS, JavaScript
 - 🤔 I’m looking for help with improving my coding skills and networking 
 - 💬 Ask me about my hobbies (hint, I like the outdoors!)
