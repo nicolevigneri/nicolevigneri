@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on an SQL database! 
-- 🌱 I’m currently learning programming languages such as C, Java, HTML, CSS, JavaScript
+- 🌱 I’m currently using programming languages such as HTML, CSS, JavaScript, React
 - 🤔 I’m looking for help with improving my coding skills and networking 
 - 💬 Ask me about my hobbies (hint, I like the outdoors!)
-- 📫 How to reach me: nmv00003@mix.wvu.edu ; nicolemvigneri@gmail.com  ; (443) 356-1868
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I like to crochet!
 
